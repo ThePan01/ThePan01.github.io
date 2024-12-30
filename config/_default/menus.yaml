@@ -4,9 +4,6 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Pic
-    url: pic
-    weight: 10
   - name: Video
     url: /#video
     weight: 11
