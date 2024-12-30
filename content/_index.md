@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/e1e1a647-3a16-4534-9301-8fae43b04244)---
 # Leave the homepage title empty to use the site title
 title: ""
 date: 2022-10-24
@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+       I look forward to starting a research project aimed at the organic integration of artificial hearts with the human body, exploring the connection between neural interface technology and artificial hearts.
+The human body is a complex system, and one of the limitations of current artificial hearts is their lack of direct neural connections with the body’s nervous system. However, with the ongoing development of brain-machine interfaces, I am thinking about using relevant technology to connect the artificial heart to the nervous system. Then the artificial heart can receive signals from the patient’s nervous system in real time, regulating heart rate, monitoring blood pressure and blood flow, etc.
+Because this is a very complex interdisciplinary research project, it requires collaborators from different disciplines, such as biology, chemistry, physics, engineering design, etc., and it also requires everyone involved to have the same interest in serving public health. The research on the combination of neural interface technology and artificial hearts has not yet been widely carried out, and there will inevitably be many difficulties and failures. I hope we can stick to our original intentions and dreams, and eventually achieve this goal.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
  
