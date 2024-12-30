@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-       I look forward to starting a research project aimed at the organic integration of artificial hearts with the human body, exploring the connection between neural interface technology and artificial hearts.
-The human body is a complex system, and one of the limitations of current artificial hearts is their lack of direct neural connections with the body’s nervous system. However, with the ongoing development of brain-machine interfaces, I am thinking about using relevant technology to connect the artificial heart to the nervous system. Then the artificial heart can receive signals from the patient’s nervous system in real time, regulating heart rate, monitoring blood pressure and blood flow, etc.
-Because this is a very complex interdisciplinary research project, it requires collaborators from different disciplines, such as biology, chemistry, physics, engineering design, etc., and it also requires everyone involved to have the same interest in serving public health. The research on the combination of neural interface technology and artificial hearts has not yet been widely carried out, and there will inevitably be many difficulties and failures. I hope we can stick to our original intentions and dreams, and eventually achieve this goal.
+    
 
     design:
       columns: '1'
