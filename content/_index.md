@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        With both my parents being cardiac surgeons, I began to learn about the equipment and the latest cardiac treatment plans. For example, I have learned that the left ventricular assist devices (LVADs) have been updated to the 4th-generation fully magnetically levitated artificial heart, helping more heart failure patients improve their quality of life and prolong their lives.
+Another thing I have learned, which is obvious when you think about it but also easy to forget, is that even the top cardiac surgeons are human beings. They get tired sometimes and their resources are limited. My hope is to provide assistance to doctors through technological innovations that will ultimately benefit human health, such as biomaterials, implantable devices, neural engineering, and neurotechnology.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   
