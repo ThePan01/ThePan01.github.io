@@ -34,7 +34,7 @@ There are no special requirements for printing, except that the components must 
 4. Install the potentiometer in a suitable position and connect the wires from the servos and potentiometer to the Nano C.  
 5. Program the servos to rotate and simulate the heartbeat.
 
-```cpp
+{{< highlight cpp >}}
 //Nilheim Mechatronics Servo Heart Mechanism Code
 //Make sure you have the Adafruit servo driver library installed >>>>> https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library
 //Potentiometer Pin = A0
@@ -96,7 +96,7 @@ void setServoPulse(uint8_t n, double pulse) {
   pulse /= pulselength;
   Serial.println(pulse);
  // pwm.setPWM(n,
-```
+{{< /highlight >}}
 
 ## Conclusion
 By using the Arduino Nano C to control the movement of the servos, the heart can currently simulate a real heartbeat. In the future, I may use this device to simulate different heart conditions. At the same time, I am considering whether, with the ongoing development of brain-machine interfaces, it might be possible to connect the artificial heart to the nervous system, allowing it to better simulate the function of a natural heart.
